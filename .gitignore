@@ -77,4 +77,4 @@ yarn-error.log
 # Config files with secrets
 config/
 secrets/
-firebaseConfig.js
+firebaseConfig.ts
