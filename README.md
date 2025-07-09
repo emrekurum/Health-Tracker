@@ -1,4 +1,1 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
-
-
-
+This is a new [**React Native**](https://reactnative.dev) project, 
